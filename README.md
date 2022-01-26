@@ -1,5 +1,7 @@
 # Orb Project Template
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/a9a82c0a-fe91-4943-9e7e-a600d75def9e.svg?orgId=271534534505)](https://app.soluble.cloud/repos/details/github.com/lingom-ksr/securin-orb?orgId=271534534505)  
+
 [![CircleCI Build Status](https://circleci.com/gh/Lingom-KSR/securin-orb.svg?style=shield "CircleCI Build Status")](https://circleci.com/gh/Lingom-KSR/securin-orb) [![CircleCI Orb Version](https://badges.circleci.com/orbs/securin/C:\Users\Lingom\Documents\Projects\securin-orb.svg)](https://circleci.com/orbs/registry/orb/securin/C:\Users\Lingom\Documents\Projects\securin-orb) [![GitHub License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/Lingom-KSR/securin-orb/master/LICENSE) [![CircleCI Community](https://img.shields.io/badge/community-CircleCI%20Discuss-343434.svg)](https://discuss.circleci.com/c/ecosystem/orbs)
 
 
